@@ -7,5 +7,5 @@ example later
 ```
 
 ## Image
-<img  src="C:\Users\tszmi\Pictures\Screenshots\螢幕擷取畫面 (176).png" />
+<img alt="screenshot" src="C:\Users\tszmi\Pictures\Screenshots\螢幕擷取畫面 (176).png" />
 
